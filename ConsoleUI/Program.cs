@@ -1,18 +1,23 @@
-﻿using Business.Concrete;
+﻿using Business.Abstract;
+using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
+using Microsoft.Extensions.DependencyInjection;
 
-    // SOLID
-    // Open Closed Principle
+// SOLID
+// Open Closed Principle
 
 class Program
 {
     static void Main(string[] args)
     {
+
+
         ProductTest();
         //  CategoryTest();
 
     }
+
 
     private static void CategoryTest()
     {
