@@ -1,4 +1,4 @@
-# MyFinalProject
+# Katmanlı Mimari
 
 Bu proje, modern bir yazılım geliştirme uygulamasını hayata geçirmek için tasarlanmış bir **Katmanlı Mimari** örneğidir. Proje, **C# ve .NET Core** teknolojilerini kullanarak iş mantığı, veri erişimi ve API entegrasyonu gibi konularda temel yetenekler sunmaktadır.
 
